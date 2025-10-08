@@ -14,6 +14,7 @@ function draw() {
     corner2X = mouseX + 100;
     corner2Y = mouseY + 100;
     square(mouseX, mouseY, 100);
-    square(corner1X, corner1Y, 100)
-    square(corner2X, corner2Y, 100)
+    square(corner1X, corner1Y, 100);
+    square(corner2X, corner2Y, 100);
 }
+
